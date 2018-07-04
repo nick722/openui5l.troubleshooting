@@ -7,7 +7,6 @@
 sap.ui.define([
 	"sap/ui/core/mvc/Controller",
 	'sap/m/MessageToast',
-	'sap/ui/ux3/NavigationBar',
 	'jquery.sap.global'
 ], function (Controller, MessageToast, NavigationBar, jQuery) {
 	"use strict";
